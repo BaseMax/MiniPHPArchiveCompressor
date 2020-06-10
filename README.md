@@ -28,6 +28,10 @@ Total output bytes: 4275
 Done.
 ```
 
+## Similar Projects
+
+- https://github.com/BaseMax/ZMiniCArchiveCompressor
+
 ---------
 
 # Max Base
