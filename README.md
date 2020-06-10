@@ -2,6 +2,32 @@
 
 PHP software to compress and archive files with CLI console.
 
+## Using
+
+##### max@base:~/compress$ ./compressor.php c i.txt o.txt
+
+```
+Mode: c, Level: 9
+Input File: "i.txt"
+Output File: "o.txt"
+Input file size: 4275
+Total input bytes: 5
+Total output bytes: 2107
+Done.
+```
+
+##### max@base:~/compress$ ./compressor.php d o.txt  oi.txt
+
+```
+Mode: d, Level: 9
+Input File: "o.txt"
+Output File: "oi.txt"
+Input file size: 2107
+Total input bytes: 5
+Total output bytes: 4275
+Done.
+```
+
 ---------
 
 # Max Base
