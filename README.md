@@ -28,6 +28,10 @@ Total output bytes: 4275
 Done.
 ```
 
+## Dependency
+
+Only PHP interpreter (https://github.com/php/php-src/blob/master/ext/zlib/zlib.c#L741)
+
 ## Similar Projects
 
 - https://github.com/BaseMax/ZMiniCArchiveCompressor
