@@ -31,6 +31,7 @@ Done.
 ## Similar Projects
 
 - https://github.com/BaseMax/ZMiniCArchiveCompressor
+- https://github.com/BaseMax/MiniArchiveCompressor
 
 ---------
 
