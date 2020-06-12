@@ -4,11 +4,11 @@
 // https://github.com/BaseMax/MiniPHPArchiveCompressor
 /*
 Tested on: Linux base 5.3.0-40-generic
-Run: $ php mini.php
-Run: $ ./mini.php
-Using: $ ./mini c input.txt output.x
-       $ ./mini d output.x input.txt
-max@base:~/compress$ ./mini.php c i.txt o.txt
+Run: $ php compressor.php
+Run: $ ./compressor.php
+Using: $ ./compressor.php c input.txt output.x
+       $ ./compressor.php d output.x input.txt
+max@base:~/compress$ ./compressor.php c i.txt o.txt
         Mode: c, Level: 9
         Input File: "i.txt"
         Output File: "o.txt"
@@ -16,7 +16,7 @@ max@base:~/compress$ ./mini.php c i.txt o.txt
         Total input bytes: 5
         Total output bytes: 2107
         Done.
-max@base:~/compress$ ./mini.php d o.txt  oi.txt
+max@base:~/compress$ ./compressor.php d o.txt  oi.txt
         Mode: d, Level: 9
         Input File: "o.txt"
         Output File: "oi.txt"
